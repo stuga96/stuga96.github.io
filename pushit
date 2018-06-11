@@ -1,0 +1,4 @@
+#!/bin/csh -f
+git add --all
+git commit -m "tjoho"
+git push -u origin master
